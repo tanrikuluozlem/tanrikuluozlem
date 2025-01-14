@@ -22,7 +22,7 @@ In my free time, I like to explore new technologies, write blog posts, and stay 
 ## 📝 Blog & Articles
 I like to share my knowledge through articles and tutorials. You can check out my latest posts:
 - [Accessing Cross-Workflow Artifacts Between Repositories](https://medium.com/@ozlemtanrikulu/accessing-cross-workflow-artifacts-between-repositories-93d167397afa)
-- [Setting Up Multi-Cluster Shared Services via VPC Peering in EKS]([https://medium.com/@yourprofile](https://medium.com/@ozlemtanrikulu/setting-up-multi-cluster-shared-services-via-vpc-peering-in-eks-8aca8ca8c1bf)
+- [Setting Up Multi-Cluster Shared Services via VPC Peering in EKS](https://medium.com/@ozlemtanrikulu/setting-up-multi-cluster-shared-services-via-vpc-peering-in-eks-8aca8ca8c1bf)
 
 ## 📬 Let's Connect
 I’d love to hear from you! Whether it's for a tech talk, collaboration, or just to chat about DevOps, feel free to reach out.
