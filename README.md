@@ -21,8 +21,8 @@ In my free time, I like to explore new technologies, write blog posts, and stay 
 
 ## 📝 Blog & Articles
 I like to share my knowledge through articles and tutorials. You can check out my latest posts:
-- [Accessing Cross-Workflow Artifacts Between Repositories](https://medium.com/@ozlemtanrikulu/accessing-cross-workflow-artifacts-between-repositories-93d167397afa)
-- [Setting Up Multi-Cluster Shared Services via VPC Peering in EKS](https://medium.com/@ozlemtanrikulu/setting-up-multi-cluster-shared-services-via-vpc-peering-in-eks-8aca8ca8c1bf)
+- [Optimizing Moodle on ECS with Amazon RDS Proxy](https://medium.com/@ozlemtanrikulu/optimizing-moodle-on-ecs-with-amazon-rds-proxy-fc97110b7110)
+- [Automating EC2 Provisioning and Configuration with Terraform and Ansible](https://medium.com/@ozlemtanrikulu/automating-ec2-provisioning-and-configuration-with-terraform-and-ansible-8c208c31ea1c)
 
 ## 📬 Let's Connect
 I’d love to hear from you! Whether it's for a tech talk, collaboration, or just to chat about DevOps, feel free to reach out.
