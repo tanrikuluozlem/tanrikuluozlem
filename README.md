@@ -21,8 +21,8 @@ In my free time, I like to explore new technologies, write blog posts, and stay 
 
 ## 📝 Blog & Articles
 I like to share my knowledge through articles and tutorials. You can check out my latest posts:
-- [Optimizing Moodle on ECS with Amazon RDS Proxy](https://medium.com/@ozlemtanrikulu/optimizing-moodle-on-ecs-with-amazon-rds-proxy-fc97110b7110)
-- [Automating EC2 Provisioning and Configuration with Terraform and Ansible](https://medium.com/@ozlemtanrikulu/automating-ec2-provisioning-and-configuration-with-terraform-and-ansible-8c208c31ea1c)
+- [How Kubernetes Handles App & Cluster Capacity with HPA, Karpenter, and CAS](https://medium.com/@ozlemtanrikulu/how-kubernetes-handles-app-cluster-capacity-with-hpa-karpenter-and-cas-70ddbd2c2bd1)
+- [Git Flow vs. Trunk-Based Development: Choosing the Right Branching Strategy](https://medium.com/@ozlemtanrikulu/git-flow-vs-trunk-based-development-choosing-the-right-branching-strategy-38d9c2d23b78)
 
 ## 📬 Let's Connect
 I’d love to hear from you! Whether it's for a tech talk, collaboration, or just to chat about DevOps, feel free to reach out.
