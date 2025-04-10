@@ -21,6 +21,7 @@ In my free time, I like to explore new technologies, write blog posts, and stay 
 
 ## 📝 Blog & Articles
 I like to share my knowledge through articles and tutorials. You can check out my latest posts:
+- [Achieve Cost-Efficient Scaling: Leveraging VPA and Prometheus for Smarter Resource Allocation in Kubernetes](https://medium.com/@ozlemtanrikulu/achieve-cost-efficient-scaling-leveraging-vpa-and-prometheus-for-smarter-resource-allocation-in-1dc26a32c4ba)
 - [How Kubernetes Handles App & Cluster Capacity with HPA, Karpenter, and CAS](https://medium.com/@ozlemtanrikulu/how-kubernetes-handles-app-cluster-capacity-with-hpa-karpenter-and-cas-70ddbd2c2bd1)
 - [Git Flow vs. Trunk-Based Development: Choosing the Right Branching Strategy](https://medium.com/@ozlemtanrikulu/git-flow-vs-trunk-based-development-choosing-the-right-branching-strategy-38d9c2d23b78)
 
